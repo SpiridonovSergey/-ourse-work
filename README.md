@@ -7,4 +7,4 @@
 1. Git
 
 
-![Лучший язык программирования!](img/Swift.jpeg)
+![](/Users/serejaspiridonov/Desktop/Курсовая!/Swift.jpeg)
